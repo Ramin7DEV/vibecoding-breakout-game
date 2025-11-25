@@ -113,7 +113,7 @@ This project was created to test **Claude Opus 4.5's** ability to:
 
 ## 🌐 Live Demo
 
-🔗 [View Live Demo](#) *(Add your GitHub Pages or deployment link here)*
+🔗 [View Live Demo](https://ramin7dev.github.io/vibecoding-breakout-game/)
 
 ## 🎮 Game Controls
 
